@@ -1,0 +1,76 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+# Ignore model weights
+*.pt
+yolo11n.pt
+yolo11m.pt
+yolo11s.pt
+yolov8n.pt
+yolov8s.pt
+adjusted_sound.mp3
+blinking.py
+indicator/thar_data_set/
+demo.py
+final_output_video.AVI
+final_output_video.mp4
+indicator/first.py
+indicator/image_paste.py
+indicator/light_update.py
+indicator/output/final_output_video_with_audio.avi
+indicator/test_first.py
+indicator/vecteezy_lens-flare-light-special-effect_8507290.png
+mobile_detect.py
+output/final_output_video_with_audio.avi
+output_video.avi
+over_under_know.py
+yolo11.py
+indicator/test.png
+indicator/testing_indicator.py
+indicator/runs/detect/train3/*.jpg
+indicator/runs/detect/train3/*.png
+indicator/runs/detect/train3/*.csv
+runs/detect/train3/*.png
+runs/detect/train/*.png
+runs/detect/train4/*.png
+runs/detect/train4/*.jpg
+runs/detect/train4/*.csv
+runs/detect/train42/*.png
+runs/detect/train42/*.jpg
+runs/detect/train32/*.png
+runs/detect/train32/*.jpg
+runs/detect/predict/2053100-uhd_3840_2160_30fps.avi
+runs/detect/train/*.jpg
+runs/detect/train/*.csv
+runs/detect/train3/*.jpg
+runs/detect/train3/*.csv
+
+
+
+
+
+# Ignore training logs and result files
+
+
+custom/
+Yolov8/
+Rough_test/
+test.py
+test_model.py
+
+# Ignore environment files
+.env
+*.env
+!indicator/runs/detect/train3/weights/best.pt
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore YAML configuration files if they are sensitive or not necessary for version control
+*.yaml
