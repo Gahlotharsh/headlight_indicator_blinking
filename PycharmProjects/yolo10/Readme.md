@@ -33,7 +33,7 @@ Ensure the following are installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gahlotharsh/headlight_indicator_blinking.git
-   cd yolo-light-effect-generator
+   cd headlight_indicator_blinking/pychamproject/yolo10/indicator
 
 This version includes:
 1. **`pip install -r requirements.txt`** instructions under installation.
