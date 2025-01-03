@@ -41,4 +41,4 @@ This version includes:
 3. Verification step for `ffmpeg` installation using the `ffmpeg -version` command.
 
 ```bash
-    streamlit.py
+   Streamlit run streamlit.py
