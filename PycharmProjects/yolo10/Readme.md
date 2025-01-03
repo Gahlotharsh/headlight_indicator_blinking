@@ -32,7 +32,7 @@ Ensure the following are installed:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:Gahlotharsh/headlight_indicator_blinking.git
+   git clone https://github.com/Gahlotharsh/headlight_indicator_blinking.git
    cd yolo-light-effect-generator
 
 This version includes:
